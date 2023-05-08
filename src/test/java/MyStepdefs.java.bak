@@ -24,7 +24,6 @@ public class MyStepdefs {
     GenerateOrder objGenerateOrder;
 
 
-//Enter Login Details
     @Given("User is on the login page")
     public void user_is_on_the_login_page() throws InterruptedException {
         // Write code here that turns the phrase above into concrete actions
